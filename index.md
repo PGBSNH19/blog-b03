@@ -4,7 +4,7 @@ Lektion:
 
 [01: beskrivning](00.md)
 
-02: beskrivning
+[02: beskrivning](02.md)
 
 [03: beskrivning](03.md)
 
